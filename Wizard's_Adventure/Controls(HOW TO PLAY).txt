@@ -1,0 +1,17 @@
+To navigate 
+------------
+WSAD or Arrow keys
+
+
+
+
+to fire 
+--------
+
+use space
+
+
+
+for use dash(to cover long distance mid air)
+--------------------------------------------
+use shift key
